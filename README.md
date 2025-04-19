@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm I'm Jayasurya T Appu</h1>
+<h1 align="center">Hi 👋, I'm Jayasurya T Appu</h1>
 <h3 align="center">🚀 Backend-Focused Full Stack Developer | Passionate about building robust APIs, microservices & solving real-world problems with clean code.</h3>
 
 - 🔭 I’m currently working at  **Cordova Educational Solution**
