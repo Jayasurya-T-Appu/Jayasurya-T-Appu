@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm I'm Jayasurya T Appu</h1>
 <h3 align="center">🚀 Backend-Focused Full Stack Developer | Passionate about building robust APIs, microservices & solving real-world problems with clean code.</h3>
 
-- 🔭 I’m currently working at on **Cordova Educational Solution**
+- 🔭 I’m currently working at  **Cordova Educational Solution**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Jayasurya-T-Appu](https://github.com/Jayasurya-T-Appu)
 
