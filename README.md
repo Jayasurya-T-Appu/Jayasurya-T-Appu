@@ -1,26 +1,66 @@
 <h1 align="center">Hi 👋, I'm Jayasurya T Appu</h1>
-<h3 align="center">🚀 Backend-Focused Full Stack Developer | Passionate about building robust APIs, microservices & solving real-world problems with clean code.</h3>
+<h3 align="center">
+🚀 Backend Engineer | Scalable Systems • Microservices • High-Performance APIs
+</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jayasurya-t-appu" alt="jayasurya-t-appu" /></a> </p>
+---
 
-- 🔭 I’m currently working at **Cordova Educational Solution**
+### 💡 About Me
+- Backend-focused Full Stack Developer with **3+ years experience**
+- Built systems handling **~1000 req/sec**
+- Improved performance by **50%+** and reduced failures by **80%**
+- Strong in **system design, microservices & distributed systems**
+- Passionate about building **production-ready, scalable architectures**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Jayasurya-T-Appu](https://github.com/Jayasurya-T-Appu)
+---
 
-- 💬 Ask me about **Node Js**
+### 🛠️ Tech Stack
+- **Backend:** Node.js, Express.js, FastAPI
+- **Microservices:** gRPC, REST APIs
+- **Databases:** MongoDB, MySQL, Redis (Caching)
+- **DevOps:** Docker, Nginx, GCP
+- **Messaging:** Kafka, RabbitMQ
+- **Languages:** JavaScript, Python, C++
 
-- 📫 How to reach me **jayasuryawebdev@gmail.com**
+---
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1QMn7o46pcqsEknTI2JX5_GDrrcueo07w/view?usp=sharing](https://drive.google.com/file/d/1QMn7o46pcqsEknTI2JX5_GDrrcueo07w/view?usp=sharing)
+### 🔥 What I Do Best
+- Design **scalable backend architectures**
+- Build **low-latency APIs**
+- Optimize systems for **performance & reliability**
+- Implement **caching, queues & load balancing**
+- Work with **real-world production systems**
 
-- ⚡ Freelance Projects **www.arabianskyme.com, www.lorrygopvt.com, www.broadclovereeducation.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/jayasurya t appu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jayasurya t appu" height="30" width="40" /></a>
-</p>
+### 📌 Featured Projects
+- 🛒 **E-commerce Microservices System**
+  - Dockerized architecture with **Redis caching + gRPC communication**
+  - Implemented API Gateway with **Nginx**
+  
+- 🤖 **AI Chatbot with RAG**
+  - Built using **FastAPI + ChromaDB + Transformers**
+  - Handles domain-specific queries with high accuracy
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+- 🚚 **LorryGo (Logistics Platform)**
+  - Real-world product with backend architecture & deployment
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jayasurya-t-appu&show_icons=true&locale=en" alt="jayasurya-t-appu" /></p>
+---
+
+### 📈 Impact Highlights
+- ⚡ Reduced cancellation rate by **80%**
+- 🚀 Increased API performance by **50%**
+- 🔄 Designed **20+ production APIs**
+- 📊 Built systems handling **high concurrency**
+
+---
+
+### 📫 Contact Me
+- Email: **jayasuryawebdev@gmail.com**
+- GitHub: https://github.com/Jayasurya-T-Appu
+- Resume: https://drive.google.com/file/d/1QMn7o46pcqsEknTI2JX5_GDrrcueo07w/view
+
+---
+
+### ⚡ Fun Fact
+I enjoy solving **real-world backend problems** more than building UI 😄
