@@ -58,7 +58,7 @@
 ### 📫 Contact Me
 - Email: **jayasuryawebdev@gmail.com**
 - GitHub: https://github.com/Jayasurya-T-Appu
-- Resume: https://drive.google.com/file/d/1QMn7o46pcqsEknTI2JX5_GDrrcueo07w/view
+- Website : www.jayasuryawebdev.com
 
 ---
 
